@@ -1,1 +1,5 @@
-Le serveur est un DHCP, il sert à attribuer les ip.
+Server:		10.51.1.42
+Address:	10.51.1.42#53
+
+81.1.51.10.in-addr.arpa	name = ldap-proxy.42.fr.
+

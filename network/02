@@ -1,1 +1,1 @@
-ipconfig getifaddr en0
+ifconfig en0
